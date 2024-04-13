@@ -1,0 +1,7 @@
+name=Blanket Curtains
+id=BlanketCurtains
+poster=poster.png
+description=allows making blankets into curtains
+tiledef=BlanketCurtain 420
+pack=guns_blanket_curtains_2x
+

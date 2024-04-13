@@ -1,0 +1,73 @@
+module BlanketCurtains
+{
+	item WhiteBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = White Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item BlackBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Black Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item PurpleBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Purple Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item PinkBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Pink Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item BlueBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Blue Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item GreenBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Green Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item RedBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Red Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item YellowBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Yellow Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item MilitaryGreenBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Military Green Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+	item DBlueBC
+	{
+		Weight = 1,
+		Type = Normal,
+		DisplayName = Dark Blue Blanket Curtain,
+		OnCreate = Recipe.OncreateItem.CurtainItem,
+	}
+}
