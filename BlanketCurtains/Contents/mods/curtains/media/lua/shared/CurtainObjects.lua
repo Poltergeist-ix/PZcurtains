@@ -11,7 +11,7 @@ curtainObjects.vanillaTiles = {
 				S = {"fixtures_windows_curtains_01_22",},
 				N = {"fixtures_windows_curtains_01_23",},}
 			}
-}
+
 curtainObjects.tilesInfo = {
 	["BlanketCurtains.WhiteBC"] = {
 				closed = {
@@ -24,7 +24,7 @@ curtainObjects.tilesInfo = {
 				W = {"blanket_curtain_1_5",},
 				S = {"blanket_curtain_1_6",},
 				N = {"blanket_curtain_1_7",},}
-			}
+			},
 	["BlanketCurtains.BlackBC"] = {
 				closed = {
 				E =	{"blanket_curtain_1_8",},
@@ -36,7 +36,7 @@ curtainObjects.tilesInfo = {
 				W = {"blanket_curtain_1_13",},
 				S = {"blanket_curtain_1_14",},
 				N = {"blanket_curtain_1_15",},}
-			}
+			},
 	["BlanketCurtains.PurpleBC"] = {
 				closed = {
 				E =	{"blanket_curtain_1_16",},
@@ -48,7 +48,7 @@ curtainObjects.tilesInfo = {
 				W = {"blanket_curtain_1_21",},
 				S = {"blanket_curtain_1_22",},
 				N = {"blanket_curtain_1_23",},}
-			}
+			},
 	["BlanketCurtains.PinkBC"] = {
 					closed = {
 				E =	{"blanket_curtain_1_24",},
@@ -195,6 +195,4 @@ curtainObjects.patternsInfo = {
 				S = {"curtain_patterns_36",},
 				N = {"curtain_patterns_37",},}
 			},
-	}
-
 }
