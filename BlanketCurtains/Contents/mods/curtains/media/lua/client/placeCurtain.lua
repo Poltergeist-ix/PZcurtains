@@ -57,6 +57,7 @@ ContextMenu.OnFillWorldObjectContextMenu = function (playerIndex, context, world
         --pass
     elseif thumpableWindow ~= nil then
         if not (thumpableWindow:getSquare():getWindow(thumpableWindow:getNorth()) or thumpableWindow:HasCurtains()) then
+            --TODO submenu, icons
             for i = 0, blankets:size() - 1 do
                 if test == true then return true end
                 local blanket = blankets:get(i)
