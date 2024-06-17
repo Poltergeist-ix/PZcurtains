@@ -1,4 +1,5 @@
-curtainObjects = curtainObjects or {}
+---obsolete table
+local curtainObjects = curtainObjects or {}
 curtainObjects.vanillaTiles = {
 				closed = {
 				E = {"fixtures_windows_curtains_01_16",}, 
